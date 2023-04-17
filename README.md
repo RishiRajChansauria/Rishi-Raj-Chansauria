@@ -7,3 +7,4 @@ Hey there I'm Rishi
 🎓  I'm currently a postgraduate student studying computer science at the Woolf University.
 🛠   I'm currently working as full stack developer at CME Group office in bengaluru.
 ✉️  You can email me at rishi.chansauria@gmail.com.
+
